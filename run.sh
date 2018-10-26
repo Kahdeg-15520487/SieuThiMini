@@ -1,0 +1,1 @@
+dotnet run --project SieuThiMini-backend.Startup/SieuThiMini-backend.Startup.csproj

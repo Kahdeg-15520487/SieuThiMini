@@ -1,0 +1,18 @@
+[
+  {
+    "id": "dm01",
+    "tenDanhMuc": "Sách"
+  },
+  {
+    "id": "dm02",
+    "tenDanhMuc": "Điện thoại"
+  },
+  {
+    "id": "dm03",
+    "tenDanhMuc": "Quần áo"
+  },
+  {
+    "id": "dm05",
+    "tenDanhMuc": "Trang sức"
+  }
+]

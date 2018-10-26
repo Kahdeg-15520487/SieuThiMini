@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\SieuThiMini-backend.Dal\SieuThiMini-backend.Dal.csproj" />
+    <ProjectReference Include="..\SieuThiMini-backend.Contract\SieuThiMini-backend.Contract.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>SieuThiMini.AppService</RootNamespace>
+    <AssemblyName>SieuThiMini.AppService</AssemblyName>
+  </PropertyGroup>
+
+</Project>
